@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNamespace;
+
+use quangbaort\Repository\Contracts\RepositoryInterface;
+
+interface DummyClass extends RepositoryInterface
+{
+    //
+}
